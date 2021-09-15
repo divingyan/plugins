@@ -1,6 +1,7 @@
-## NEXT
+## 2.0.13
 
 * Add file chooser on Android
+* Send URL of File to download to the NavigationDelegate on Android just like it is already done on iOS.
 * Updated Android lint settings.
 
 ## 2.0.12
